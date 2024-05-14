@@ -11,8 +11,8 @@ Sockets Links.
 ## PROGRAM:
 ## CLIENT:
 ```
-Thanjiyappan k
-212222240108
+MOHAN KUMAR P
+212222220026
 
 import socket
 s=socket.socket()
